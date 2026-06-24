@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
-  <title id="title">Valkiria profile banner</title>
-  <desc id="description">Fullstack, security and DevOps profile banner in a dark pastel theme</desc>
+  <title id="title">Баннер профиля Valkiria</title>
+  <desc id="description">Двуязычный баннер Fullstack, Security и DevOps в тёмной пастельной теме</desc>
   <defs>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#f7eaf0" stroke-opacity=".055" stroke-width="1"/>
@@ -21,21 +21,25 @@
     <path d="M742 326 C886 190 1028 180 1218 276" fill="none" stroke="#9ac7cf" stroke-opacity=".3" stroke-width="1"/>
   </g>
 
-  <rect x="52" y="52" width="134" height="30" fill="#e087a0"/>
-  <text x="68" y="72" fill="#211b2a" font-family="Consolas, monospace" font-size="13" font-weight="700">AVAILABLE / 2026</text>
+  <rect x="52" y="52" width="238" height="30" fill="#e087a0"/>
+  <text x="68" y="72" fill="#211b2a" font-family="Consolas, monospace" font-size="12" font-weight="700">ОТКРЫТ ДЛЯ ПРОЕКТОВ / 2026</text>
 
   <text x="52" y="174" fill="#f7eaf0" font-family="Georgia, serif" font-size="82" font-weight="700">VALKIRIA</text>
   <rect x="55" y="194" width="485" height="8" fill="#e087a0"/>
   <text x="55" y="236" fill="#f7eaf0" font-family="Consolas, monospace" font-size="18" font-weight="700">FULLSTACK  /  SECURITY  /  DEVOPS</text>
-  <text x="55" y="274" fill="#c9b8ca" font-family="Arial, sans-serif" font-size="18">Soft interface. Hard engineering.</text>
+  <text x="55" y="270" fill="#c9b8ca" font-family="Arial, sans-serif" font-size="17">Мягкий интерфейс. Жёсткая инженерия.</text>
+  <text x="55" y="294" fill="#c9b8ca" font-family="Consolas, monospace" font-size="11">SOFT INTERFACE / HARD ENGINEERING</text>
 
-  <g font-family="Consolas, monospace" font-size="13" font-weight="700">
-    <rect x="820" y="86" width="264" height="42" fill="#3b3047" stroke="#f7eaf0" stroke-opacity=".3"/>
-    <text x="838" y="112" fill="#f7eaf0">WEB + APPLICATIONS</text>
-    <rect x="846" y="144" width="264" height="42" fill="#3b3047" stroke="#f7eaf0" stroke-opacity=".3"/>
-    <text x="864" y="170" fill="#f7eaf0">API + INFRASTRUCTURE</text>
-    <rect x="872" y="202" width="264" height="42" fill="#e087a0"/>
-    <text x="890" y="228" fill="#211b2a">SECURITY FIRST</text>
+  <g font-family="Consolas, monospace" font-weight="700">
+    <rect x="794" y="72" width="298" height="56" fill="#3b3047" stroke="#f7eaf0" stroke-opacity=".3"/>
+    <text x="812" y="94" fill="#f7eaf0" font-size="13">САЙТЫ + ПРИЛОЖЕНИЯ</text>
+    <text x="812" y="114" fill="#c9b8ca" font-size="10">WEB + APPLICATIONS</text>
+    <rect x="820" y="142" width="298" height="56" fill="#3b3047" stroke="#f7eaf0" stroke-opacity=".3"/>
+    <text x="838" y="164" fill="#f7eaf0" font-size="13">API + ИНФРАСТРУКТУРА</text>
+    <text x="838" y="184" fill="#c9b8ca" font-size="10">API + INFRASTRUCTURE</text>
+    <rect x="846" y="212" width="298" height="56" fill="#e087a0"/>
+    <text x="864" y="234" fill="#211b2a" font-size="13">БЕЗОПАСНОСТЬ СНАЧАЛА</text>
+    <text x="864" y="254" fill="#211b2a" fill-opacity=".76" font-size="10">SECURITY FIRST</text>
   </g>
 
   <circle cx="1126" cy="300" r="8" fill="#e087a0"/>

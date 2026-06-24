@@ -39,7 +39,7 @@ Fullstack-разработчик с вниманием к безопасност
 
 ```text
 > status
-ОТКРЫТА ДЛЯ НОВЫХ ПРОЕКТОВ
+ОТКРЫТ ДЛЯ НОВЫХ ПРОЕКТОВ
 
 > focus
 WEB / APP / API / SECURITY / DEPLOY
