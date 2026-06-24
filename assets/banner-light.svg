@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Valkiria profile banner</title>
+  <desc id="description">Fullstack, security and DevOps profile banner in a soft pastel theme</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#51496f" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect x="16" y="16" width="1168" height="328" rx="6"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="360" fill="#f5ede6"/>
+  <rect width="1200" height="360" fill="url(#grid)"/>
+  <rect x="16" y="16" width="1168" height="328" rx="6" fill="#fffaf4" stroke="#51496f" stroke-opacity=".45" stroke-width="2"/>
+
+  <g clip-path="url(#frame)">
+    <circle cx="1080" cy="62" r="180" fill="#e7a9ba" fill-opacity=".43"/>
+    <circle cx="1020" cy="320" r="230" fill="#6a9eb1" fill-opacity=".18"/>
+    <path d="M760 306 C890 158 1014 146 1212 252" fill="none" stroke="#c76882" stroke-opacity=".46" stroke-width="2"/>
+    <path d="M742 326 C886 190 1028 180 1218 276" fill="none" stroke="#6a9eb1" stroke-opacity=".35" stroke-width="1"/>
+  </g>
+
+  <rect x="52" y="52" width="134" height="30" fill="#c76882"/>
+  <text x="68" y="72" fill="#fffaf4" font-family="Consolas, monospace" font-size="13" font-weight="700">AVAILABLE / 2026</text>
+
+  <text x="52" y="174" fill="#51496f" font-family="Georgia, serif" font-size="82" font-weight="700">VALKIRIA</text>
+  <rect x="55" y="194" width="485" height="8" fill="#c76882"/>
+  <text x="55" y="236" fill="#51496f" font-family="Consolas, monospace" font-size="18" font-weight="700">FULLSTACK  /  SECURITY  /  DEVOPS</text>
+  <text x="55" y="274" fill="#80758f" font-family="Arial, sans-serif" font-size="18">Soft interface. Hard engineering.</text>
+
+  <g font-family="Consolas, monospace" font-size="13" font-weight="700">
+    <rect x="820" y="86" width="264" height="42" fill="#fff0e7" stroke="#51496f" stroke-opacity=".38"/>
+    <text x="838" y="112" fill="#51496f">WEB + APPLICATIONS</text>
+    <rect x="846" y="144" width="264" height="42" fill="#fff0e7" stroke="#51496f" stroke-opacity=".38"/>
+    <text x="864" y="170" fill="#51496f">API + INFRASTRUCTURE</text>
+    <rect x="872" y="202" width="264" height="42" fill="#c76882"/>
+    <text x="890" y="228" fill="#fffaf4">SECURITY FIRST</text>
+  </g>
+
+  <circle cx="1126" cy="300" r="8" fill="#c76882"/>
+  <text x="52" y="322" fill="#80758f" font-family="Consolas, monospace" font-size="12">valkiria.website  //  cValkiria</text>
+</svg>
