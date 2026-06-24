@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://valkiria-website.pages.dev/">
+  <a href="https://valkiria.website/">
     <img alt="Open landing" src="https://img.shields.io/badge/OPEN_LANDING-Valkiria_WebSuite-c76882?style=for-the-badge&labelColor=211b2a">
   </a>
   <a href="https://t.me/cValkiria">
@@ -115,7 +115,7 @@ WEB / APP / API / SECURITY / DEPLOY
 мини-терминал и развёртывание с security headers.
 
 <p>
-  <a href="https://valkiria-website.pages.dev/">
+  <a href="https://valkiria.website/">
     <img alt="Открыть лендинг" src="https://img.shields.io/badge/ОТКРЫТЬ_ЛЕНДИНГ-LIVE-c76882?style=for-the-badge&labelColor=211b2a">
   </a>
 </p>
@@ -137,7 +137,7 @@ WEB / APP / API / SECURITY / DEPLOY
 
 - **Telegram:** [@cValkiria](https://t.me/cValkiria)
 - **VK:** [vk.com/cvalkiria](https://vk.com/cvalkiria)
-- **Landing:** [Valkiria WebSuite](https://valkiria-website.pages.dev/)
+- **Landing:** [Valkiria WebSuite](https://valkiria.website/)
 
 <p align="right"><a href="#en">Read in English →</a></p>
 
@@ -175,7 +175,7 @@ It includes adaptive themes, RU/EN localization, a reactive mascot, Jamendo Mini
 terminal commands and security-focused deployment.
 
 <p>
-  <a href="https://valkiria-website.pages.dev/">
+  <a href="https://valkiria.website/">
     <img alt="Open landing" src="https://img.shields.io/badge/OPEN_LANDING-LIVE-c76882?style=for-the-badge&labelColor=211b2a">
   </a>
 </p>
@@ -186,7 +186,7 @@ terminal commands and security-focused deployment.
 
 - **Telegram:** [@cValkiria](https://t.me/cValkiria)
 - **VK:** [vk.com/cvalkiria](https://vk.com/cvalkiria)
-- **Landing:** [Valkiria WebSuite](https://valkiria-website.pages.dev/)
+- **Landing:** [Valkiria WebSuite](https://valkiria.website/)
 
 </details>
 
